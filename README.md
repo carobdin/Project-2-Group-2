@@ -2,7 +2,7 @@
 
 - Group Members
 
-Priyanshi Gajjar & Caroline Bastos Bordin
+Priyanshi Gajjar & Caroline Bordin Bastos
 
 # Index 
 
